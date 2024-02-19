@@ -1,7 +1,7 @@
-run virtual environment  >>
+ create & run virtual environment  >>
+ virtualenv env
+ .\env\Scripts\activate  
 
-.\env\Scripts\activate  
+ run the project
 
-run the project
-
-py manage.py runserver 
+ py manage.py runserver 
